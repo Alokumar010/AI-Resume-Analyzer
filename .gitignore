@@ -35,5 +35,5 @@ dist/
 .vscode/
 *.iml
 
-# Environment files
+# Environment
 .env
